@@ -1,0 +1,3 @@
+1net start mysql
+2vue_api_server=》node app
+3vue_element_shopManage-master =>npm run serve
